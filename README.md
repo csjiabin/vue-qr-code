@@ -37,5 +37,4 @@ Attributes
 ---|---|---
 val | String | Hello Word!
 isObj | Boolean | false
-
 object | Object | {}
