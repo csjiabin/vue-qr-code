@@ -29,8 +29,7 @@ usage
     
 result:
 ---
-![image](https://gitee.com/jaibin/image/raw/master/qrcode.png)
-
+![](screenshot/screenshot.png)
 Attributes
 ---
 参数 | 类型 | 默认值
